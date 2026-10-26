@@ -1,0 +1,3 @@
+{"event_id":"evt-001","kind":"checkpoint","lat":28.95,"lon":-80.9,"ts":"2026-01-05T12:00:00Z"}
+{"event_id":"evt-002","kind":"checkpoint","lat":28.96,"lon":-80.89,"ts":"2026-01-05T12:05:00Z"}
+{"event_id":"evt-003","kind":"objective","lat":28.94,"lon":-80.89,"ts":"2026-01-05T12:10:00Z"}
